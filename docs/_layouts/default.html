@@ -14,13 +14,16 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
+        <img src="assets/images/app_icon.png" alt="Argus TV Remote" align="left">
         <header class="inner">
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
 
+          <p>
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+		  </p>
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -30,6 +33,15 @@
           {% endif %}
         </header>
     </div>
+
+
+	<div class="sidenav">
+	  <a href="/">Home</a>
+	  <a href="install">Installing</a>
+	  <a href="using">Users Guide</a>
+	  <a href="legal">Legal</a>
+	  <a href="support">Support</a>
+	</div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
@@ -58,5 +70,6 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+	
   </body>
 </html>
