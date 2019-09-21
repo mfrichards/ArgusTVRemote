@@ -1,7 +1,7 @@
 # Argus TV Remote
-#### Android client for Argus TV
+### Android client for Argus TV
 
-Argus TV Remote is a fully functional Android client for Argus TV, with the ability to manage recordings, browse the program guide, create recording schedules, and watch recordings on your Android device. In addition, it has the ability to select a recording and "cast" it to any Kodi instance running on the same network. It supports Live TV, and also has an integrated Kodi remote control which will lets you control Kodi while playing back recordings.
+Argus TV Remote is a fully functional Android client for the [Argus TV smart TV recording suite](https://www.argus-tv.com), with the ability to manage recordings, browse the program guide, create recording schedules, and watch recordings on your Android device. In addition, it has the ability to select a recording and "cast" it to any Kodi instance running on the same network. It supports Live TV, and also has an integrated Kodi remote control which will lets you control Kodi while playing back recordings.
 
 **Current release: 1.0.1920 (See the "releases" section)**
 
@@ -24,7 +24,7 @@ Argus TV Remote is a fully functional Android client for Argus TV, with the abil
 ### Requirements
 
 - Your device must be running **Android Lolipop (Version 5.0)** or higher.
-- **You must have an Argus TV server installed and running on your local network.**
+- **You must have an Argus TV server installed and running on your local network.** See: https://www.argus-tv.com.
 - To watch recordings and/or Live TV, you must have a video player installed on your device that suppports playing transport stream files (.ts) from network shares and (optionally) supports playing RTSP streams.
 - To cast recordings to Kodi, you must have an instance of **Kodi 13.0 (Gotham) or higher** installed and running on your local network.
 - To watch recordings and/or cast them to Kodi, you must have Argus TV configured to use UNC paths (i.e. \\\\Server\\Share) for recording files.
@@ -39,7 +39,7 @@ The app is free, and provided "as is" without any warranty of any kind. The app 
 
 [End User License Agreement](EULA.html)
 
-[Privacy Policy](Privacy.html)
+[Privacy Policy](PrivacyPolicy.html)
 
 ### Support
 
