@@ -20,7 +20,6 @@
   padding-bottom: 80px;
 }
 
-
 .outer img {
   position: absolute;
   margin: 0 auto;
@@ -38,7 +37,7 @@
   position: absolute; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 240px;
-  lef: 0px;
+  left: 0px;
   background-color: #f2f2f2; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 40px;
@@ -59,4 +58,33 @@
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
   color: #0F79D0;
+}
+
+
+@media screen and (max-width: 992px) {
+
+	.outer img {
+	  position: relative;
+	  margin: 0 auto;
+	  max-width: 250px;
+	  padding-left: 40px;
+	  padding-top: 10px;
+	  margin: 0 0 0 0;
+	  border: 0px;
+	  box-shadow: 0 0 0;
+	}
+
+	.sidenav {
+	  width: 100%;
+	  position: relative;
+	  z-index: 1;
+	  top: 0px;
+	  left: 0px;
+	  background-color: #f2f2f2; /* Black */
+	  overflow-x: hidden; /* Disable horizontal scroll */
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  padding-left: 0px;
+	}
+
 }

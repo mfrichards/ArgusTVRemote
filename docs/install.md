@@ -1,4 +1,4 @@
-### Installing
+## Installing
 
 I plan to release the app soon to the Google Play store, but for anyone who wants to help with testing, Beta releases will be available in the "releases" section of the Github project:
 
