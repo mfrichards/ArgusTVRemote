@@ -25,11 +25,11 @@ In order for Argus TV Remote to communicate with Kodi, you must also enable "Con
 
 ### Watching Live TV
 
-To view live TV on the device you must have installed a video player that supports the video format of your TV channels (usually either MPEG2 or MPEG4) and playing RTSP streams. Again, I have had the most success using either Kodi or VLC as the player. When you select "Watch Live" from a guide channel in Argus TV Remote, it will start the Live stream, and then the system will then ask you to select a player from those installed on the device that support playing RTSP streams.
+To view live TV on the device you must have installed a video player that supports the video format of your TV channels (usually either MPEG2 or MPEG4) and playing RTSP streams. Again, I have had the most success using either Kodi or VLC as the player. When you select "Watch Live" from a guide channel in Argus TV Remote, it will start the Live stream, and then the system will ask you to select a player from those installed on the device that support playing RTSP streams.
 
-When you select "Watch Live On..." for a guide channel within Argus TV Remote, just like when casting recordings it will search for Kodi instances on the network and present a list of any found. Once you select a Kodi instance, Argus TV Remote will then start the live stream on that device and open the built in remote control so you can control playback.
+When you select "Watch Live On..." for a guide channel within Argus TV Remote, just like when casting recordings, it will search for Kodi instances on the network and present a list of any found. Once you select a Kodi instance, Argus TV Remote will start the live stream on that device and then open the built in remote control so you can control playback.
 
-Note: When watching live TV, it is important that you do not exit Argus TV Remote or close the remote control within the app. Live TV requires that the Argus TV server be sent a "keep alive" signal periodically, otherwise it will stop the RTSP stream. Argus TV Remote will take care of sending the "keep alive" signal as long as the remote control window is open. You can, however, turn the screen off on your device and Argus TV Remote will continue running in the background.
+**Note:** When watching live TV, it is important that you do not exit Argus TV Remote or close the remote control window within the app. Live TV requires that the Argus TV server be sent a "keep alive" signal periodically, otherwise it will stop the RTSP stream. Argus TV Remote will take care of sending the "keep alive" signal as long as the remote control window is open. You can, however, turn the screen off on your device and Argus TV Remote will continue running in the background.
 
 ### Note on Battery Usage
 
