@@ -1,5 +1,9 @@
 ## Support
 
+For help using Argus TV Remote, refer to the Argus TV Remote wiki pages:
+
+[Argus TV Remote Wiki](https://github.com/mrichards957/ArgusTVRemote/wiki)
+
 Please post questions and/or suggestions to the support thread in the Argus TV forums:
 
 [Argus TV Forums](https://www.argus-tv.com/forum/viewforum.php?f=56)
