@@ -4,7 +4,7 @@ Argus TV Remote is a fully functional Android client for the [Argus TV smart TV 
 
 **Current release: 1.0.1928 (Beta)**
 
-**See it in the [Google Play Store](
+**Available in the [Google Play Store](
 https://play.google.com/store/apps/details?id=com.whitestarlogic.argustvcontroller)**
 
 ### Features
