@@ -2,7 +2,10 @@
 
 Argus TV Remote is a fully functional Android client for the [Argus TV smart TV recording suite](https://www.argus-tv.com), with the ability to manage recordings, browse the program guide, create recording schedules, and watch recordings on your Android device. In addition, it has the ability to select a recording and "cast" it to any Kodi instance running on the same network. It supports Live TV, and also has an integrated Kodi remote control which will lets you control Kodi while playing back recordings.
 
-**Current release: [1.0.1920](https://github.com/mrichards957/ArgusTVRemote/releases)**
+**Current release: 1.0.1928 (Beta)**
+
+**See it in the [Google Play Store](
+https://play.google.com/store/apps/details?id=com.whitestarlogic.argustvcontroller)**
 
 ### Features
 
