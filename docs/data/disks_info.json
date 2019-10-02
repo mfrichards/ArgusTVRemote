@@ -1,0 +1,33 @@
+{
+    "TotalSizeBytes": 4000801210368,
+    "FreeSpaceBytes": 1532876029952,
+    "FreeHoursSD": 1142.08,
+    "FreeHoursHD": 203.94,
+    "PercentageUsed": 61.69,
+    "RecordingDiskInfos": [
+        {
+            "Name": "\\\\Gkar\\Data2",
+            "TotalSizeBytes": 1000202240000,
+            "FreeSpaceBytes": 402302386176,
+            "FreeHoursSD": 299.74,
+            "FreeHoursHD": 53.52,
+            "PercentageUsed": 59.78
+        },
+        {
+            "Name": "\\\\Gkar\\Data3",
+            "TotalSizeBytes": 2000396730368,
+            "FreeSpaceBytes": 650120347648,
+            "FreeHoursSD": 484.38,
+            "FreeHoursHD": 86.5,
+            "PercentageUsed": 67.5
+        },
+        {
+            "Name": "\\\\Gkar\\Data",
+            "TotalSizeBytes": 1000202240000,
+            "FreeSpaceBytes": 480453296128,
+            "FreeHoursSD": 357.97,
+            "FreeHoursHD": 63.92,
+            "PercentageUsed": 51.96
+        }
+    ]
+}
