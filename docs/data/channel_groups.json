@@ -1,0 +1,29 @@
+[
+    {
+        "ChannelGroupId": "4e1e62be-1e70-4060-abb5-8b20f9ffadfe",
+        "Id": 1,
+        "ChannelType": 0,
+        "GroupName": "Local",
+        "VisibleInGuide": true,
+        "Sequence": 0,
+        "Version": 1
+    },
+    {
+        "ChannelGroupId": "982357e6-1e38-4b40-9882-db66b3e3929d",
+        "Id": 3,
+        "ChannelType": 0,
+        "GroupName": "Comcast",
+        "VisibleInGuide": true,
+        "Sequence": 1,
+        "Version": 1
+    },
+    {
+        "ChannelGroupId": "07168d84-7e98-46e9-9978-4aa6e43121f5",
+        "Id": 4,
+        "ChannelType": 0,
+        "GroupName": "NHL",
+        "VisibleInGuide": true,
+        "Sequence": 1,
+        "Version": 1
+    }
+]

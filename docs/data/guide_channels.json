@@ -1,0 +1,926 @@
+[
+    {
+        "GuideChannelId": "4ad6d97a-25e1-45ac-baa3-45cfb240e860",
+        "XmlTvId": "16550",
+        "Name": "10 KCEC",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "c517d7c0-b10a-4395-8ed5-d85d2bef6d21",
+        "XmlTvId": "77996",
+        "Name": "120 Nick Jr (Pacific)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "12e69992-6996-4578-8156-0680c668de72",
+        "XmlTvId": "30420",
+        "Name": "126 Nicktoons Network",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "605c51aa-065b-422c-8b18-434d6ae853c8",
+        "XmlTvId": "16361",
+        "Name": "135 MTV2: Music Television",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "9b985b0e-7d03-482c-8a71-effec09dd8a0",
+        "XmlTvId": "10371",
+        "Name": "14 KTFD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "c54d9e26-46b2-4c8f-8c6e-a172704ed1d9",
+        "XmlTvId": "61012",
+        "Name": "14 KWHDDT (KWHD-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "513d65ee-e755-4d70-9ef6-780aaf47fcb0",
+        "XmlTvId": "17665",
+        "Name": "169 CSPAN3",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "c96561cd-ea05-4aaf-9ec7-9a3eeb8c1d24",
+        "XmlTvId": "10162",
+        "Name": "170 CSPAN2",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "ac8e9595-75e8-4dd8-80db-f747cc4275fa",
+        "XmlTvId": "89542",
+        "Name": "173 BBC World News (North America)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "4d05c379-243d-470e-bb60-323a08129247",
+        "XmlTvId": "65799",
+        "Name": "177 Smithsonian Network",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "a0f62643-ea4b-4562-9ecd-3d57dd0c48f3",
+        "XmlTvId": "20370",
+        "Name": "2 KWGNDT (KWGN-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "7e550979-58cb-4dd7-a0c3-869a627f4717",
+        "XmlTvId": "106420",
+        "Name": "2 KWGNDT4 (KWGN-DT4)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "fe71fb3c-e3ff-4952-800c-82d143a5c393",
+        "XmlTvId": "37087",
+        "Name": "20 KTVDDT (KTVD-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "7d473f65-87fe-443c-8693-bdf404ccd9f1",
+        "XmlTvId": "106123",
+        "Name": "21 KXRMDT4 (KXRM-DT4)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "3c7a21f9-d7fb-41c9-b302-25fc5500f6d9",
+        "XmlTvId": "59036",
+        "Name": "215 Teen Nick",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "e34348eb-8a92-4f1b-82de-ead8a954d965",
+        "XmlTvId": "16125",
+        "Name": "222 Discovery Life Channel",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "49be2969-b52b-4320-8965-1aac58ab9cf5",
+        "XmlTvId": "21855",
+        "Name": "232 BYU-TV",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "264b4bfd-5a26-4be8-998f-475aee059bcc",
+        "XmlTvId": "105705",
+        "Name": "26 KZDNLD6 (KZDN-LD6)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "ee6c4fcb-00ab-4851-9fc6-34ff572c0b0f",
+        "XmlTvId": "18544",
+        "Name": "277 Do-It-Yourself Network",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "17e2016b-7573-4a80-8869-a59c33f01054",
+        "XmlTvId": "21319",
+        "Name": "31 KDVRDT (KDVR-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d80e706f-a61e-4a14-ad56-4a9ef6eed6ce",
+        "XmlTvId": "106410",
+        "Name": "31 KDVRDT3 (KDVR-DT3)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "17f9e64c-82b6-4aa0-8d84-58420dc4d27a",
+        "XmlTvId": "21297",
+        "Name": "4 KCNCDT (KCNC-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "f52d54ee-58de-4877-bbb2-fe19d53734b1",
+        "XmlTvId": "18717",
+        "Name": "471 CMT Music",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "8a1530ba-d457-4b88-8cc6-62799c8e4f80",
+        "XmlTvId": "30418",
+        "Name": "472 Nick Music",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "7dd1a1ba-8ae4-4a19-8ad3-3aa59028fd20",
+        "XmlTvId": "22561",
+        "Name": "473 MTV Classic",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d87e79e0-90df-4298-bcab-455aecf58eaa",
+        "XmlTvId": "107865",
+        "Name": "48 KVSNDT4 (KVSN-DT4)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "c672a372-ee9d-4592-95fd-edbc421ec78a",
+        "XmlTvId": "108105",
+        "Name": "50 KTFDDT3 (KTFD-DT3)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "ff8dce55-6a75-4ddf-bcc0-66ccf59206af",
+        "XmlTvId": "61376",
+        "Name": "59 KPXCDT (KPXC-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d0284440-be99-4420-a924-b8eb0505e33a",
+        "XmlTvId": "21723",
+        "Name": "6 KRMADT (KRMA-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "5ae0ecdd-d2b8-41c1-9d8e-3d4eec10975d",
+        "XmlTvId": "43669",
+        "Name": "647 KCECDT (KCEC-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "4f23f401-1ae2-439e-a9b3-320a9bce22e8",
+        "XmlTvId": "58597",
+        "Name": "648 KTFDDT (KTFD-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "6850a7b5-9046-4bed-ad8a-c5cdc475a769",
+        "XmlTvId": "31046",
+        "Name": "663 Velocity",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "50186d67-b006-4433-a390-7c217144caee",
+        "XmlTvId": "28506",
+        "Name": "664 AXS TV",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d59bd3fb-c3a4-40a3-9178-5eef2e4c154f",
+        "XmlTvId": "61109",
+        "Name": "665 AT&T SportsNet Rocky Mountain HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "312cca1f-bbed-4ca6-97dc-4b58db891a58",
+        "XmlTvId": "42642",
+        "Name": "667 Turner Network TV HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "9be23e8c-facb-4a7d-b60e-3a4d6aeb5fac",
+        "XmlTvId": "32645",
+        "Name": "668 ESPNHD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "1e312dd0-66c9-401a-9429-591cdd1b233d",
+        "XmlTvId": "60696",
+        "Name": "669 ESPNU HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "968c5360-d223-4ee3-98db-d2cf50620164",
+        "XmlTvId": "45507",
+        "Name": "670 ESPN2 HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "19826c32-46b7-474a-9ac3-8c4741e144e5",
+        "XmlTvId": "49141",
+        "Name": "671 MTVLIVE",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "1eff6ac3-259f-4294-b35f-59fe86b38c24",
+        "XmlTvId": "61854",
+        "Name": "672 The Golf Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "9b6439b5-7a62-4042-8c15-cd2c77ac1d47",
+        "XmlTvId": "49438",
+        "Name": "674 National Geographic HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "3382879c-d5d2-4bfc-a640-49a350b1e832",
+        "XmlTvId": "51529",
+        "Name": "675 A&E Network HD East",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "501b77eb-524d-4378-9335-1dfb2b45b443",
+        "XmlTvId": "45399",
+        "Name": "676 NFL Network HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "8481ea0a-6dc6-49dc-80e4-92c2dd2791bb",
+        "XmlTvId": "57391",
+        "Name": "677 The Learning Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "413d8cfd-e5c9-444b-9ddf-4e18863b248a",
+        "XmlTvId": "58515",
+        "Name": "678 TBS HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "be619c10-344a-4825-8606-2c55fd19cc84",
+        "XmlTvId": "59684",
+        "Name": "679 Disney Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "3c0938a1-5392-4f1e-b907-2cff870e63fa",
+        "XmlTvId": "59615",
+        "Name": "680 Freeform HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "8fcaaf97-8586-49b8-aae3-ce9d7c10d74f",
+        "XmlTvId": "50747",
+        "Name": "681 Food Network HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "9c8db80c-78bc-4c50-9427-3bd8f4e8f87a",
+        "XmlTvId": "49788",
+        "Name": "682 Home & Garden Television HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "9017e672-e8c2-473d-a628-14b341dd5522",
+        "XmlTvId": "57390",
+        "Name": "683 Science Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "9b8441b6-7053-4dd3-8cf1-1e399221942e",
+        "XmlTvId": "58623",
+        "Name": "688 Syfy HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "1d917d29-d41c-46ec-8944-c2e18c6118cd",
+        "XmlTvId": "48639",
+        "Name": "689 NBCSN HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "c734f74c-75dd-4d83-bbe4-d8577ed71ac0",
+        "XmlTvId": "62081",
+        "Name": "690 MLB Network HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "79a56636-5999-4d75-bdf0-35dbb293a436",
+        "XmlTvId": "59814",
+        "Name": "691 FX HD (Pacific)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "bb19b4b8-ca9f-4110-a74c-6f1135b85883",
+        "XmlTvId": "66379",
+        "Name": "692 FXX HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "b7a8d013-891f-4115-8243-c0e06ac045c7",
+        "XmlTvId": "20293",
+        "Name": "7 KMGHDT (KMGH-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "f461e3d2-8d73-49c7-b524-0082ff05b271",
+        "XmlTvId": "65795",
+        "Name": "710 IndiePlex HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "36901972-0900-45b1-871a-275428fd239a",
+        "XmlTvId": "65791",
+        "Name": "711 RetroPlex HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "b123f9f1-63b7-4562-9b51-5db3de7cde38",
+        "XmlTvId": "56905",
+        "Name": "716 The Discovery Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "631fb480-e529-471c-bb18-344a99bef292",
+        "XmlTvId": "60964",
+        "Name": "723 MTV - Music Television HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "79ec3d8c-35e8-4ca0-ac16-b547f1131748",
+        "XmlTvId": "58452",
+        "Name": "724 USA Network HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "2f87d08e-1503-480b-adf6-9792e8df836c",
+        "XmlTvId": "65596",
+        "Name": "725 Altitude Sports and Entertainment Networ",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "fcbcfdf9-5373-4b75-969e-c0e9ebdd7cf8",
+        "XmlTvId": "59432",
+        "Name": "728 Nickelodeon HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "a3e3a726-501d-4d4b-b687-2f43172e57fc",
+        "XmlTvId": "67331",
+        "Name": "729 National Geographic Wild HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "80daab00-bd3f-44e4-bc97-606ee86f0201",
+        "XmlTvId": "57394",
+        "Name": "730 Animal Planet HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "0cf4f6d9-155a-4a88-bb38-8d8704712c50",
+        "XmlTvId": "67703",
+        "Name": "731 Cartoon Network HD (Pacific)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "806360f6-fcc2-42a0-a59b-38ac4b6541e4",
+        "XmlTvId": "57708",
+        "Name": "736 History HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "2c6bcf23-c68a-43a3-9476-cbb1d39a4b95",
+        "XmlTvId": "64549",
+        "Name": "737 HLN HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "82c12f19-e922-4331-98fa-dada4bdccaf7",
+        "XmlTvId": "58646",
+        "Name": "738 CNN HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "26ae3d1c-2137-4006-b922-c55f9ef4905d",
+        "XmlTvId": "60179",
+        "Name": "742 Fox News Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "ba8dd27f-bd96-47dd-9c7f-d02ebdaa2198",
+        "XmlTvId": "60150",
+        "Name": "743 Lifetime HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "95f89491-4ec6-4f26-ad34-e3cd6968b780",
+        "XmlTvId": "70522",
+        "Name": "744 Oxygen HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "211be46b-5979-4e26-83ea-f7d7fbe63960",
+        "XmlTvId": "58812",
+        "Name": "745 The Weather Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "dc402294-6b0f-4e22-a501-a8f2b9b4fb13",
+        "XmlTvId": "58780",
+        "Name": "746 CNBC HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "0894f745-5f6d-46cd-b269-a339d5cb84d0",
+        "XmlTvId": "71799",
+        "Name": "747 Bloomberg HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "18b8b2d7-d31e-46fb-97a5-9361da490202",
+        "XmlTvId": "59186",
+        "Name": "759 Paramount Network HD",
+        "ChannelType": 0,
+        "Version": 2
+    },
+    {
+        "GuideChannelId": "e6ed932a-5939-4606-a223-f734685a4ad9",
+        "XmlTvId": "73994",
+        "Name": "761 Bravo HD (Pacific)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "7798b094-f9b6-4a10-ba95-f1615ea2106a",
+        "XmlTvId": "59337",
+        "Name": "764 AMC HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "e6cfd418-6e2e-46c4-bef8-0e3bcfc29924",
+        "XmlTvId": "64241",
+        "Name": "765 MSNBC HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d938ca3d-c21a-4492-b0cc-b364ab1a76ef",
+        "XmlTvId": "60046",
+        "Name": "766 VH1 HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "971fa950-4819-44d3-b229-76c884bd6dca",
+        "XmlTvId": "64312",
+        "Name": "767 Turner Classic Movies HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "c24a86d5-1a68-40b8-bd86-3677020255eb",
+        "XmlTvId": "61812",
+        "Name": "768 E! Entertainment Television HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "21cc9953-7350-43be-a940-b7471632eb9b",
+        "XmlTvId": "69061",
+        "Name": "769 Ovation TV HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "fe8072b1-c17c-4f0a-9110-0f5821e53a1e",
+        "XmlTvId": "64490",
+        "Name": "771 truTV HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "adbdae2f-d7b6-42ba-b2b8-f0c067037b97",
+        "XmlTvId": "62420",
+        "Name": "772 Comedy Central HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "0d086816-1d54-41ef-b979-371a3dc53693",
+        "XmlTvId": "64492",
+        "Name": "773 BBC America HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "b86be757-71e1-481c-8eea-4e5de19a91d2",
+        "XmlTvId": "59303",
+        "Name": "774 The Travel Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "6bbab821-05b5-411d-b5ae-8c43edf8cc3f",
+        "XmlTvId": "60006",
+        "Name": "776 Disney XD HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "56de3649-6a57-4d0b-b758-57baae99f5bd",
+        "XmlTvId": "82547",
+        "Name": "777 Fox Sports 1 HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "e4560fcb-4bf3-44c8-89c4-947088a4c7e8",
+        "XmlTvId": "16123",
+        "Name": "78 TV Land",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "7d47a0ee-c467-4820-88b2-404fb8475f08",
+        "XmlTvId": "68796",
+        "Name": "782 POP HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "29f91b2b-d1bb-4b3a-9883-fd5bb39f9d3c",
+        "XmlTvId": "59296",
+        "Name": "783 WE tv HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "5ec4aace-98f2-495d-aef8-45c6a2f9badb",
+        "XmlTvId": "58988",
+        "Name": "784 FYI Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "e6686ac8-6e35-4691-801b-5f58219e48a8",
+        "XmlTvId": "60468",
+        "Name": "785 Destination America HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "4641a585-2abb-42dd-91c4-9c39f3307082",
+        "XmlTvId": "61960",
+        "Name": "788 TV ONE HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "fa326f6b-ddb5-4644-a20f-1b1874d3a18b",
+        "XmlTvId": "65732",
+        "Name": "790 Viceland HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d7b76407-40df-4e9e-ae55-e6f312a2fafa",
+        "XmlTvId": "65342",
+        "Name": "791 Investigation Discovery HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "0ce45d96-28fa-4f68-bfff-66224644cb02",
+        "XmlTvId": "58718",
+        "Name": "793 Fox Business HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "9ff1eaa9-6c0a-47cb-a0c9-73756a15da63",
+        "XmlTvId": "63236",
+        "Name": "795 BET HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "0502585b-7c37-4a83-8cb3-90ba8dd498e2",
+        "XmlTvId": "68827",
+        "Name": "797 GSN HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "4eb90717-8632-4ab4-ab39-bd2da7441066",
+        "XmlTvId": "91096",
+        "Name": "799 WGN America HD",
+        "ChannelType": 0,
+        "Version": 2
+    },
+    {
+        "GuideChannelId": "c647491c-5e23-48be-8420-c3bb1423a47f",
+        "XmlTvId": "59116",
+        "Name": "834 Fuse HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "bfca57c1-8efd-4353-8a59-a27b8f5108ce",
+        "XmlTvId": "59440",
+        "Name": "835 Country Music Television HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "c80bcb6c-339d-4724-bb7c-fcc2f0ebb39f",
+        "XmlTvId": "67749",
+        "Name": "837 Discovery Family Channel HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "166e5bc6-39a9-4d47-badb-621c2123c8fc",
+        "XmlTvId": "70225",
+        "Name": "838 Universal Kids HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d327c7d0-2474-4c1c-afd4-516d76c5a806",
+        "XmlTvId": "59976",
+        "Name": "841 ESPNEWS HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d2ba68a9-e353-4a66-a47f-d54a9d3a381e",
+        "XmlTvId": "58690",
+        "Name": "842 NHL Network HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "ddfadd92-2e3a-4fde-9a42-6fe7e9ca0919",
+        "XmlTvId": "45526",
+        "Name": "843 NBA TV HDTV",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "85f00ab4-7320-4fa9-bd72-c80f8dd35c48",
+        "XmlTvId": "59250",
+        "Name": "846 CBS Sports Network HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "68027066-626b-4659-9cf7-c751b382e5c0",
+        "XmlTvId": "59444",
+        "Name": "855 IFC HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "f3106a09-1a2d-42e0-898f-3924d4c1454d",
+        "XmlTvId": "46710",
+        "Name": "857 Hallmark Movies & Mysteries HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "37224797-eb19-4322-8c30-4c70ee2d62cd",
+        "XmlTvId": "55887",
+        "Name": "858 Lifetime Movies HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "30ec6152-efa8-4602-95f1-d4ddc6d1f8bb",
+        "XmlTvId": "58530",
+        "Name": "859 MGM HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "68c9cb8a-a507-4fdb-bda6-eceb2d375c10",
+        "XmlTvId": "65687",
+        "Name": "860 Epix HD",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "7ec91d0c-8651-4c78-a9d1-4417493622b1",
+        "XmlTvId": "21298",
+        "Name": "9 KUSADT (KUSA-DT)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "6bddd9cf-4453-470c-995c-a280e00cbc3c",
+        "XmlTvId": "106946",
+        "Name": "9 KUSADT5 (KUSA-DT5)",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "fe06b383-2b52-424b-afe8-0f58a69df7b5",
+        "XmlTvId": "10161",
+        "Name": "98 CSPAN",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "9974d5e6-826d-4c2f-a36c-214a1727caf7",
+        "XmlTvId": "nhltv.1",
+        "Name": "NHLTV 1",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d3d0aa67-6ba9-48f2-8fd4-46dfd59f7c5c",
+        "XmlTvId": "nhltv.10",
+        "Name": "NHLTV 10",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "dbc031f9-ef0d-4ea3-aefa-8f65eee316f7",
+        "XmlTvId": "nhltv.11",
+        "Name": "NHLTV 11",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "2e1e2451-db44-4e6b-97b6-26cf8d285a84",
+        "XmlTvId": "nhltv.12",
+        "Name": "NHLTV 12",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "e3048888-b959-4426-8f9b-f3c209cde091",
+        "XmlTvId": "nhltv.13",
+        "Name": "NHLTV 13",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "42c1a670-5ccd-4fd0-acf8-c7378568d3fb",
+        "XmlTvId": "nhltv.14",
+        "Name": "NHLTV 14",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "d68e8d84-1713-496d-85c1-fd10f143758f",
+        "XmlTvId": "nhltv.15",
+        "Name": "NHLTV 15",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "731f33bf-db65-4547-bd94-68f6bcf0f943",
+        "XmlTvId": "nhltv.2",
+        "Name": "NHLTV 2",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "301c1af9-770e-4c88-a046-0ee02a71859b",
+        "XmlTvId": "nhltv.3",
+        "Name": "NHLTV 3",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "a291dbd1-4b66-4996-b932-0ddec0c69f42",
+        "XmlTvId": "nhltv.4",
+        "Name": "NHLTV 4",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "35e133f0-4c55-49c0-80f5-302651d87729",
+        "XmlTvId": "nhltv.5",
+        "Name": "NHLTV 5",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "c33d4a78-ca9e-46f4-bd9b-43a458a634af",
+        "XmlTvId": "nhltv.6",
+        "Name": "NHLTV 6",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "88476593-f314-41f9-a92f-996311ff4a55",
+        "XmlTvId": "nhltv.7",
+        "Name": "NHLTV 7",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "bcfccc7a-1efc-4098-870e-c4dd34003219",
+        "XmlTvId": "nhltv.8",
+        "Name": "NHLTV 8",
+        "ChannelType": 0,
+        "Version": 1
+    },
+    {
+        "GuideChannelId": "26746fab-1bfd-4fee-be95-e99937efad1f",
+        "XmlTvId": "nhltv.9",
+        "Name": "NHLTV 9",
+        "ChannelType": 0,
+        "Version": 1
+    }
+]
